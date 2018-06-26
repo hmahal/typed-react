@@ -74,3 +74,6 @@ typings/
 
 # VS Code files
 .vscode/
+
+#build
+dist/
